@@ -1,0 +1,7 @@
+* xref:index.adoc[]
+
+** Demo 1
+*** xref:demo_1/random.adoc[]
+
+** Demo 2
+*** xref:demo_2/random2.adoc[]
